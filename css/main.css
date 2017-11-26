@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.main_img{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+
+.desc{
+   font-size: 30px !important;
+   text-indent: 2em;
+   text-align: left;
+}
+
+h4{
+  text-transform: none !important;
+}
+
+
+.img1, .img3{
+  margin-top: 0 !important;
+}
